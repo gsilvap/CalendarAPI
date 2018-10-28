@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "CalendarAPI",
+    "packageName": "io.github.kilabs.application",
+    "packageFolder": "io/github/kilabs/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "oracle",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "fr",
+      "pt-pt"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.5.0",
+    "jwtSecretKey": "ZDJkMDBhNmY2YjA5ZWZiZjE4M2JmNWM1ZGRmNTJhNmNhNjViNjU2YmY1MGEyNjg1NGRmOGJjZjM5ZjI0NjhhMDIxMmY4ZTA1MDBlZDM3YzU3NDA4MTE3ZDFmODE4NTEzYmRkMjYyODA5OTIxZGI0YmNkMGQzNGY4ZGZhNWFmODE="
+  },
+  "git-provider": "GitHub",
+  "git-company": "gsilvap",
+  "repository-name": "CalendarAPI"
+}
